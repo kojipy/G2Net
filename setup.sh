@@ -9,3 +9,4 @@ pip3 install -U flake8
 # gitにログイン
 git config --global user.email "ryu12kojiro@gmail.com"
 git config --global user.name "sakamaki"
+git remote add origin https://github.com/kojipy/G2Net.git
